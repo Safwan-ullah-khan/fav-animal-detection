@@ -1,0 +1,3 @@
+rain: ./train_dir/images
+val: ./val_dir/images
+nc: 2
