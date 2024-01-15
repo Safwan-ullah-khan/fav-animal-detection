@@ -1,0 +1,4 @@
+train: ../train_dir/images
+val: ../val_dir/images
+nc: 2
+names: {0: 'turtle', 1: 'penguin'}
